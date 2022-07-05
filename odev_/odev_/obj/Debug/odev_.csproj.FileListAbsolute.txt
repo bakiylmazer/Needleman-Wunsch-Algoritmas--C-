@@ -1,0 +1,11 @@
+C:\Users\Baki\source\repos\odev_\odev_\bin\Debug\odev_.exe.config
+C:\Users\Baki\source\repos\odev_\odev_\bin\Debug\odev_.exe
+C:\Users\Baki\source\repos\odev_\odev_\bin\Debug\odev_.pdb
+C:\Users\Baki\source\repos\odev_\odev_\obj\Debug\odev_.csproj.AssemblyReference.cache
+C:\Users\Baki\source\repos\odev_\odev_\obj\Debug\odev_.csproj.SuggestedBindingRedirects.cache
+C:\Users\Baki\source\repos\odev_\odev_\obj\Debug\odev_.Form1.resources
+C:\Users\Baki\source\repos\odev_\odev_\obj\Debug\odev_.Properties.Resources.resources
+C:\Users\Baki\source\repos\odev_\odev_\obj\Debug\odev_.csproj.GenerateResource.cache
+C:\Users\Baki\source\repos\odev_\odev_\obj\Debug\odev_.csproj.CoreCompileInputs.cache
+C:\Users\Baki\source\repos\odev_\odev_\obj\Debug\odev_.exe
+C:\Users\Baki\source\repos\odev_\odev_\obj\Debug\odev_.pdb
